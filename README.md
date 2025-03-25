@@ -135,8 +135,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## 📧 Contact
 
 For any inquiries, reach out to:  
-📩 **your.email@example.com**  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+📩 Email: karangupta1017@gmail.com
+💬 LinkedIn: www.linkedin.com/in/karan-gupta-3aa117248
 
 ---
 
